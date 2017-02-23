@@ -1,0 +1,6 @@
+framework module DemoPodLN {
+  umbrella header "DemoPodLN-umbrella.h"
+
+  export *
+  module * { export * }
+}

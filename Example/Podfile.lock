@@ -1,0 +1,23 @@
+PODS:
+  - DemoPodLN (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - DemoPodLN (from `../`)
+  - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  DemoPodLN:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DemoPodLN: be696823d61e3dcfa17436677cb931e16d2840c0
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 4daf0c3ec13ce4d948a3d52a81d79a86667ea9e2
+
+COCOAPODS: 1.2.0.rc.1
