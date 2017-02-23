@@ -13,7 +13,6 @@
 		607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607FACD91AFB9204008FA782 /* Main.storyboard */; };
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
-		DD2E1B901E5F234D00BF0FA3 /* .swift-version.md in Sources */ = {isa = PBXBuildFile; fileRef = DD2E1B8F1E5F234D00BF0FA3 /* .swift-version.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,7 +31,6 @@
 		BAB82DCB5586088063D4FDC9 /* Pods-DemoPodLN_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemoPodLN_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DemoPodLN_Tests/Pods-DemoPodLN_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		C086210ABC60324B1611A369 /* Pods-DemoPodLN_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemoPodLN_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-DemoPodLN_Example/Pods-DemoPodLN_Example.release.xcconfig"; sourceTree = "<group>"; };
 		D30BE4623B28A39565DE15B9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		DD2E1B8F1E5F234D00BF0FA3 /* .swift-version.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = ".swift-version.md"; sourceTree = "<group>"; };
 		E31B048632CFB229EB9FD1BA /* Pods-DemoPodLN_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemoPodLN_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DemoPodLN_Example/Pods-DemoPodLN_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -114,7 +112,6 @@
 			children = (
 				2C0E3D6BCBA5305E984D200E /* DemoPodLN.podspec */,
 				D30BE4623B28A39565DE15B9 /* README.md */,
-				DD2E1B8F1E5F234D00BF0FA3 /* .swift-version.md */,
 				B69F9D3BDD039D8D7B62CE33 /* LICENSE */,
 			);
 			name = "Podspec Metadata";
@@ -245,7 +242,6 @@
 			files = (
 				607FACD81AFB9204008FA782 /* ViewController.swift in Sources */,
 				607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */,
-				DD2E1B901E5F234D00BF0FA3 /* .swift-version.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
